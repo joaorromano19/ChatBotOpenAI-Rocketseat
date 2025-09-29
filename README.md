@@ -24,7 +24,6 @@ Este projeto é uma aplicação web interativa desenvolvida com [Streamlit](http
 
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-Claro, João! Aqui está um modelo completo e bem estruturado para o seu README.md, explicando o propósito do projeto, como rodá-lo e o que ele faz:
 
 2. **Crie o arquivo de segredos:**
 - No diretório .streamlit, crie o arquivo secrets.toml com sua chave da OpenAI:
