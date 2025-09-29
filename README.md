@@ -30,7 +30,7 @@ Este projeto é uma aplicação web interativa desenvolvida com [Streamlit](http
 OPENAI_API_KEY = "sua-chave-aqui"
 
 3. **Instale as dependências:**
- -pip install streamlit openai
+ - pip install streamlit openai
 
 4. **Execute o app:**
  - streamlit run app.py
