@@ -36,4 +36,4 @@ Este projeto é uma aplicação web interativa desenvolvida com [Streamlit](http
 
 5. **Execute o app:**
 
-  streamlit run app.py
+  streamlit run streamlit.py
