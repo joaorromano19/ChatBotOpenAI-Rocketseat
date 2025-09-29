@@ -26,11 +26,14 @@ Este projeto é uma aplicação web interativa desenvolvida com [Streamlit](http
    cd seu-repositorio
 
 2. **Crie o arquivo de segredos:**
-- No diretório .streamlit, crie o arquivo secrets.toml com sua chave da OpenAI:
+   
+  No diretório .streamlit, crie o arquivo secrets.toml com sua chave da OpenAI:
 OPENAI_API_KEY = "sua-chave-aqui"
 
 3. **Instale as dependências:**
- - pip install streamlit openai
 
-4. **Execute o app:**
- - streamlit run app.py
+     pip install streamlit openai
+
+5. **Execute o app:**
+
+  streamlit run app.py
